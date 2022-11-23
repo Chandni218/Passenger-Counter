@@ -1,0 +1,34 @@
+#increment-btn{
+    background-color: purple;
+}
+
+#save-btn{
+    background-color: green;
+}
+
+body {
+    background-image: url("yarn.jpeg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+button{
+    border : 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 10px;
+    width: 200px;
+}
+
+.container{
+    background-color: antiquewhite;
+    width: 300px;
+    margin:auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
